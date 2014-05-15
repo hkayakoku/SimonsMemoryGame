@@ -1,7 +1,7 @@
-Memory
+Simon's Memory
 ======
 
-Basic Memory Game. Build with Python&amp;Tkinter
+Basic Simon's Memory Game. Build with Python&amp;Tkinter
 
 
 ![1](https://cloud.githubusercontent.com/assets/7510274/2987212/daac68a8-dc4b-11e3-8755-4b0a5c0a6edf.JPG)
